@@ -1,7 +1,7 @@
 ## My Portfolio-Website
 Portfolio website using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://www.linkedin.com/in/devi-kiran-reddy-k-10ab58177" target="_blank">**Visit Now** 🚀</a>
+<a href="https://devikiran1738.github.io/Portfolio/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
