@@ -16,6 +16,6 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/devi-kiran-reddy-k-10ab58177"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Devi Kiran 
+© 2023 Devi Kiran 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
