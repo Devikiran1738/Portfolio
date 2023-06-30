@@ -13,7 +13,7 @@
     },
     {
         "name": "Clover DX",
-        "icon": "assets/images/download.png"
+        "icon": "./assets/images/download.png"
     },
     {
         "name": "Bootstrap",
