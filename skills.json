@@ -13,7 +13,7 @@
     },
     {
         "name": "Clover DX",
-        "icon": "https://icons8.com/icon/bynpr5f1YAgF/clover.png"
+        "icon": "https://icons8.com/icon/bynpr5f1YAgF/clover"
     },
     {
         "name": "Bootstrap",
@@ -41,6 +41,6 @@
     },
     {
         "name": "Spring",
-        "icon": "https://icons8.com/icon/90519/spring-logo.png"
+        "icon": "https://icons8.com/icon/90519/spring-boot"
     }    
 ]
